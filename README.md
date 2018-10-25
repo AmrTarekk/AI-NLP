@@ -1,4 +1,4 @@
-# AI-NLP
+# NLP-Sample
 Using Natural Language processing to prepare data for AI
 
 This is a small sample of language processing for personal AI assistant use
